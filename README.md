@@ -18,7 +18,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonlawatPo&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonlawatPo&layout=compact)
 
 ## 🌱 Currently Exploring
 
